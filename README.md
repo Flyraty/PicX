@@ -12,7 +12,8 @@
 #### 使用
 - 按需修改 picx.py 中的 config 变量。
 配置项
-config	|Description	|Example|
+
+|config	|Description	|Example|
 |-------|-----------------------------------|---------|
 | is_test| 是否测试，测试打开此项，只会处理一个 markdown 文件，方便查看效果与是否符合预期 | True\False |
 | is_recursion| 是否递归搜索文件，如果目录层级不一样，可以打开此选项，用于搜索到所有需要迁移的 markdown | True\False |
